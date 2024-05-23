@@ -1,0 +1,490 @@
+
+@media (max-width:1399px){
+
+
+    .banner_img {
+        
+        margin-left: 0;
+        
+       
+    }
+    .span_position {
+      
+        margin: 0;
+        
+    }
+    .span_position {
+        transform: translate(0, 0);
+    }
+    .add_sed_btn {
+        display: block;
+        
+        padding: 0;
+    }
+    .form {
+        
+        width: 63%;
+       
+    }
+}
+
+
+
+@media (max-width:1199px){
+    .banner_img {
+        
+        margin-left: 0;
+       
+    }
+    .span_position {
+        
+        margin: 0;
+        
+    }
+    .span_position {
+        transform: translate(0, 0);
+    }
+    .customize_section img {
+       
+        margin-top: 87px;
+    }
+    .add_sed_btn {
+        
+        width: 100%;
+        justify-content: center;
+        
+    }
+    .add_sec_content {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 32px;
+    }
+    .form {
+      
+        width: 63%;
+       
+    }
+
+
+}
+
+
+@media (max-width:991px){
+    .navbar-icon {
+        
+        margin-right: 0px;
+    }
+    .container {
+        max-width: 95%;
+        padding: 24px;
+    }
+    .hero_content {
+        padding: 0;
+        width: 50%;
+    }
+    .banner_img {
+        position: absolute;
+        bottom: 0;
+        right: -1%;
+        width: 45%;
+        height: auto;
+    }
+    .nav-item {
+    
+    
+        display: inline-flex;
+    }
+    .nav-link {
+      
+        margin: auto;
+    }
+    .feature_section i {
+       
+        padding: 22px;
+       
+        font-size: 23px;
+    }
+    .feature_section h3 {
+        
+        font-size: 25px;
+    }
+    .heading-two {
+        margin-top: 12px;
+    }
+    .span_position {
+        transform: translate(0, 0);
+        margin: 0 !important;
+    }
+    .heading span {
+        
+        margin: auto;
+       
+    }
+    .heading_customize {
+        width: 100%;
+        text-align: center;
+    }
+    .lucid_5_control {
+        display: none;
+    }
+    .add_sed_btn {
+       
+        width: 50%;
+        margin: auto;
+    }
+    .add_sec_content {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 36px;
+    }
+    .form {
+        
+        width: 63%;
+        
+    }
+
+}
+
+
+
+
+
+
+@media (max-width:767px) {
+    .banner_img {
+       
+        display: none;
+    }
+    
+.height {
+    min-height: 47vh;
+    
+}
+.feature_item {
+    width: 50%;
+}
+.device_details_section {
+   
+    padding-top: 0px;
+    
+        
+      
+       
+        
+    
+}
+
+.heading-two {
+    margin-top: 0px;
+}
+.hero_content {
+    width: 91%;
+    padding: 0;
+    margin: auto;
+}
+.nav-item {
+    
+    
+    display: inline-flex;
+}
+.nav-link {
+  
+    margin: auto;
+}
+
+.heading-two {
+    
+    text-align: center;
+    width: 86%;
+    margin: auto;
+}
+.span_position {
+    margin: auto !important;
+   
+}
+.device_detail_img {
+    margin: auto;
+    width: 73%;
+}
+.lucid_5_control{
+    width: 100%;
+}
+.table_content {
+    
+    width: 48%;
+    margin-bottom: 20px;
+}
+.form {
+  
+    width: 63%;
+}
+.add_section h1 {
+    font-size: 28px;
+    font-weight: 700;
+}
+.add_sed_btn {
+   
+    width: 63% !important;
+    margin: auto !important;
+}
+.contact_section {
+    
+    padding-bottom: 498px;
+}
+   
+
+    
+}
+
+
+
+
+
+
+
+
+@media(max-width:575px){
+    
+    .hero_item {
+        text-align: center;
+    }
+    header h1 {
+        
+        font-size: 28px;
+    }
+    .btn_download {
+       
+        margin-bottom: -20px;
+        
+        letter-spacing: 0px;
+      
+    }
+    .pricing-section .heading h5 {
+        font-size: 18px;
+    }
+    .add_section h1 {
+        font-size: 26px;
+        font-weight: 700;
+    }
+    .contact_section {
+        background-color: #ededed;
+        padding: 50px;
+        position: relative;
+        padding-bottom: 367px;
+    }
+    .add_section a {
+        padding: 7px;
+        font-size: 13px;
+        margin: 5px;
+    }
+    
+    .banner_img {
+        
+        display: none;
+    }
+    .nav-item {
+        text-align: center;
+        margin: 14px 0;
+        display: inline-flex;
+        justify-content: center;
+    }
+    .height {
+        min-height: 50vh;
+        padding: 0 54px;
+     
+    }
+    .img-fluid {
+        max-width: 69%;
+        height: auto;
+        margin-left: 57px;
+    }
+    .heading span {
+        display: block;
+        height: 2px;
+        width: 100px;
+        margin-top: 13px !important;
+        position: relative;
+        margin: auto;
+    }
+    
+    .span_position {
+        transform: translate(-19px);
+    }
+    
+.heading-two {
+    text-align: center;
+    padding-top: 0px;
+}
+.device_details_section p {
+    
+    color: #000000a8;
+}
+
+.device_details_section {
+    padding: 24px;
+}
+.customize_section {
+   
+    padding: 0px;
+}
+.customize_section img {
+    width: 100%;
+    height: auto;
+}
+.clint_section {
+    
+    align-items: center;
+    justify-content: center;
+}
+.add_sed_btn {
+    
+    justify-content: center;
+    margin-top: 30px;
+}
+.table_content {
+    
+    
+   
+    
+    width: 90%;
+    margin: auto;
+    margin-bottom: 29px;
+}
+.form {
+  
+    width: 63%;
+   
+}
+.contact_information {
+    
+    padding-bottom: 156px;
+}
+.feature_section i {
+    margin-top: 36px;
+    font-size: 1.2rem;
+}
+
+.clint_details {
+    color: white;
+    margin-left: 17px;
+}
+
+.pricing-section .heading {
+   
+    padding: 40px;
+}
+.plan-section {
+    padding: 52px 0;
+}
+}
+
+@media (max-width:425px) {
+
+
+
+    .height {
+      
+        padding: 0 24px;
+    }
+    header h1 {
+        
+       
+        font-size: 22px;
+    }
+    header p {
+        margin-bottom: 41px;
+        line-height: 24px;
+        font-size: 15px;
+    }
+    .btn_download {
+        
+        width: 57%;
+        margin: auto;
+    }
+    .btn_features {
+        
+        margin-top: 23px !important;
+    }
+    .height {
+        min-height: 45vh;
+       
+    }
+    .feature_section h5 {
+       
+        font-size: 19px;
+        margin-bottom: 12px;
+    }
+    .feature_section {
+        background-color: #ffffff;
+        padding: 0px;
+    }
+    .feature_item {
+       
+        padding: 0;
+    }
+    .heading-two {
+        
+        width: 100%;
+        margin: auto;
+    }
+    .device_details_section {
+        padding: 0px;
+    }
+    .img-fluid {
+       
+        margin-left: 20px;
+    }
+    .add_section {
+        
+        padding: 0px;
+    }
+    .add_sed_btn {
+        display: flex !important;
+        flex-wrap: wrap;
+    }
+    .form {
+       
+        padding: 26px;
+        width: 87%;
+    }
+    .contact_section {
+    
+        padding-bottom: 266px;
+    }
+      
+}
+@media (max-width:375px) {
+
+    .height {
+        padding: 0 0px;
+    }
+    header h1 {
+        font-size: 23px;
+    }
+    .feature_section h1 {
+        
+        font-size: 30px;
+    }
+    .feature_section h5 {
+        font-size: 15px;
+        
+    }
+    .heading-two h1 {
+        font-size: 28px;
+        margin: 12px 0;
+    }
+    .plan-section {
+        padding: 10px 0;
+    }
+    @media (max-width:320px) {
+        .btn_download {
+            width: 59%;
+          
+        }
+
+    }
+
+}
+
+
+
